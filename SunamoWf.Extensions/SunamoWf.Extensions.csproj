@@ -7,7 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <UseWPF>true</UseWPF>
     <Description>WinForms extension methods extracted from sunamoWithoutDep.wf</Description>
-    <Version>26.9.28.1</Version>
+    <Version>26.9.30.2</Version>
     <Authors>www.sunamo.cz</Authors>
     <Copyright>www.sunamo.cz</Copyright>
     <PackageProjectUrl>https://sunamo.github.io/PlatformIndependentNuGetPackages/SunamoWf.Extensions/</PackageProjectUrl>
