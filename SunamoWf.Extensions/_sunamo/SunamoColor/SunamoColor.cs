@@ -1,4 +1,4 @@
-namespace SunamoWf.Extensions.Internal;
+namespace SunamoWf.Extensions._sunamo;
 
 /// <summary>
 /// Represents a color with alpha, red, green, and blue components
