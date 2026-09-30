@@ -29,4 +29,11 @@
   </PropertyGroup>
   <ItemGroup>
   </ItemGroup>
+  <!-- Excluded from the namespace normalization step of the publish tooling (namespaces are intentionally kept as-is). -->
+  <ItemGroup>
+    <None Remove="_sunamo\**" />
+    <None Remove="SystemDrawingColorExtensions.cs" />
+    <None Remove="SystemDrawingSizeExtension.cs" />
+    <None Remove="SystemDrawingSizeFExtension.cs" />
+  </ItemGroup>
 </Project>
