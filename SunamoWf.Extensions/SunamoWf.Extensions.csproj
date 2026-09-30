@@ -28,6 +28,5 @@
     <PackageReleaseNotes>y</PackageReleaseNotes>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="SunamoColors" Version="26.5.18.4" />
   </ItemGroup>
 </Project>
